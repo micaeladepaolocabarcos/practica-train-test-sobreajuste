@@ -1,6 +1,5 @@
 # Práctica: Train/Test y sobreajuste
 
-Práctica del curso Data Science I (Coderhouse). 
 Dataset: *Producción de Pozos de Gas y Petróleo No Convencional* ([datos.gob.ar](https://datos.gob.ar/dataset/energia-produccion-petroleo-gas-por-pozo-capitulo-iv)).
 
 ## Experimento
